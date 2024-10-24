@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Discord bot boilerplate ",
   "main": "src/index.js ",
-  "keywords": ["discord", "bot"],
+  "keywords": [
+    "discord",
+    "bot"
+  ],
   "author": "cosmeak<guillaume.fine@cosmeak.dev>",
   "license": "MIT",
   "private": true,
@@ -12,10 +15,10 @@
     "node": ">=18.0.0"
   },
   "devDependencies": {
-    "eslint": "^9.2.0"
+    "eslint": "^9.13"
   },
   "dependencies": {
-    "discord.js": "^14.15.2",
+    "discord.js": "^14.16",
     "colorette": "^2.0.20",
     "dotenv": "^16.0.3"
   },
